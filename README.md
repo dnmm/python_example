@@ -1,1 +1,1 @@
-# python_example
+print"hello"
